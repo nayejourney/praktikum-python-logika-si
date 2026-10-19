@@ -1,6 +1,6 @@
 # Praktikum Python: Logika dan Validasi Sistem Informasi
 
-**Repository:** `nayejourney-praktikum-python-modul12`  
+**Repository:** `nayejourney-praktikum-python-logika-si`  
 **Bahasa:** Python 3  
 **Pemilik:** nayejourney
 
