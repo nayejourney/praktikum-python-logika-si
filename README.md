@@ -28,9 +28,3 @@ python menu_layanan_kampus.py
 python validasi_mahasiswa.py
 python rekap_logika.py
 ```
-
-Semua program menggunakan pustaka standar Python, jadi tidak perlu menginstal package tambahan.
-
-## Mengunggah ke GitHub
-
-Buat repository baru di akun `nayejourney` dengan nama `praktikum-python-logika-si`, lalu unggah isi folder ini. ZIP ini belum otomatis dipublikasikan ke akun GitHub karena proses login dan izin akses GitHub perlu dilakukan oleh pemilik akun.
